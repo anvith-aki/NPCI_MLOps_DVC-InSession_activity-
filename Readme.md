@@ -14,3 +14,5 @@
 - Push the dataset to remote storage (VM).
 - Access the dataset in a Google Colab notebook(dvc-python-api).
 
+## Link for the dataset
+ https://cdn.iisc.talentsprint.com/AIandMLOps/MiniProjects/Datasets/bike-sharing-dataset.csv
