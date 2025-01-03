@@ -8,7 +8,7 @@
 - Download and Upload data to codespace using the CDN link.
 - Create a Python virtual environment, and activate it
 - Install required packages: dvc==3.55.2, dvc-ssh==4.1.1, asyncssh==2.18.0
-- Create a python virtual environment, and activate itInitialize a dvc repository to track data files
+-  activate and Initialize a dvc repository to track data files
 - Configure the directory present on your VM as remote storage
 - Track the dataset using DVC.
 - Push the dataset to remote storage (VM).
