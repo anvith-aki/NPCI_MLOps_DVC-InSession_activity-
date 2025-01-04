@@ -15,4 +15,6 @@
 - Access the dataset in a Google Colab notebook(dvc-python-api).
 
 ## Link for the dataset
- https://cdn.iisc.talentsprint.com/AIandMLOps/MiniProjects/Datasets/bike-sharing-dataset.csv
+ - Download the bike-sharing dataset using this link and Upload it to Codespace [Link](https://cdn.iisc.talentsprint.com/AIandMLOps/MiniProjects/Datasets/bike-sharing-dataset.csv)
+
+
